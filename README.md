@@ -231,10 +231,6 @@ Many things...
 - Placeholder image from [Placehold.it](http://placehold.it)
 - Time ago from [date-fns](https://date-fns.org/)
 
-## Contributors
-- Hoang Son Nguyen [@juzser](https://github.com/juzser)
-- Aleksey Morshnev [@enorenio](https://github.com/enorenio)
-- DOANDUYDAT [@DOANDUYDAT](https://github.com/DOANDUYDAT)
 
 
 **Thank you!** :tada:
